@@ -32,12 +32,12 @@ If you want to contribute to the development of this project, you can use the fo
 * **Dev Board:** Holyiot-24009 Development Board
 * **Compatible LoRa Radios:** 
   * Waveshare SX1262
-  * Seeed WIO-SX1262 (or SX121)
+  * Seeed WIO-SX1262
   * Waveshare LR1121 
   * *Hardware Link:* [Aliexpress Source](https://www.aliexpress.com/item/1005008993181489.html)
 
 ### 2. Flashing & Debugging Setup
-For SWDIO flashing and debugging, you can use a CMSIS-DAP debugger such as:
+For firmware flashing and debugging, you can use a CMSIS-DAP debugger such as:
 * Raspberry Pi Debug Probe
 * An RP2040 or RP2350 board configured as a debug probe
 
