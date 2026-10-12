@@ -6,7 +6,7 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 
 <img width="1042" height="834" alt="MESHNRF-54L15 Hardware Overview" src="https://github.com/user-attachments/assets/3f4774db-9132-49a0-8d04-b96a3562d5d0" />
 
-## 📊 Current Status
+## 📊 Current Status - 12 Oct 2026 - More updates to follow
 
 > [!IMPORTANT]
 > This platform is in an active testing phase. Contributions and debugging help are highly welcome.
