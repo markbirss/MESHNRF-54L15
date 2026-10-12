@@ -1,6 +1,6 @@
 # MESHNRF-54L15: Meshtastic nRF54 Device (In Development)
 
-> **Note:** The nRF54 target architecture was only recently added to Meshtastic and is still in early experimental development.
+> **Note:** The nRF54 architecture was only recently added to Meshtastic and is still in very early experimental development.
 
 The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holyiot-24005, an RP2040-Zero, and a WIO-SX1262 LoRa module.
 
