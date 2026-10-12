@@ -8,7 +8,7 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 
 ## 📊 Current Status - 12 Oct 2026 - More updates to follow
 
-Im still awaiting PCB's from JLCPCB
+Im still awaiting PCB's from JLCPCB - too confirm functioning
 
 > [!IMPORTANT]
 > This platform is in an active testing phase. Contributions and debugging help are highly welcome.
