@@ -8,7 +8,7 @@ The RP2040-Zero acts a debugger/programmer and USB Serial interface for the nRF5
 
 https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-6698.html
 
-https://www.digikey.co.za/en/products/detail/nordic-semiconductor-asa/NRF54L15-DK/25601516?
+https://www.digikey.co.za/en/products/detail/nordic-semiconductor-asa/NRF54L15-DK/25601516
 
 <img width="1042" height="834" alt="MESHNRF-54L15 Hardware Overview" src="https://github.com/user-attachments/assets/3f4774db-9132-49a0-8d04-b96a3562d5d0" />
 
