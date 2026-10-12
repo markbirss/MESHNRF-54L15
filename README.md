@@ -32,6 +32,9 @@ If you want to contribute to the development of this project, you can use the fo
 
 ### 1. Alternative Core & LoRa Configurations
 * **Dev Board:** Holyiot-24009 Development Board
+* 
+The Holyiot-24009 is a low-power development board featuring the Nordic Semiconductor nRF54L15 system-on-chip (SoC) designed for Internet of Things (IoT) and smart home applications
+
 * **Compatible LoRa Radios:** 
   * Waveshare SX1262
   * Seeed WIO-SX1262
