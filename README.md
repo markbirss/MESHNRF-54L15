@@ -16,6 +16,7 @@ Im still awaiting PCB's from JLCPCB - too confirm functioning
 | Feature | Status | Notes |
 | :--- | :---: | :--- |
 | **System Board ** |  | System boots successfully. |
+| **UART** |  | Working |
 | **Bluetooth** |  | Working |
 | **LoRa Radio** |  | Working |
 | **I2C Display** |  | Working |
