@@ -20,7 +20,7 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 | Stable | ⚠️ | Not yet |
 
 ### 🔍 Known Issues & Technical Debugging
-* **I2C Display Crash:** The display renders correctly on initialization, but the system destabilizes shortly afterward. This is a known firmware issue currently being investigated under the new nRF54 architecture stack.
+* The target is not stable and is currently being investigated under the new nRF54 architecture stack.
 
 ---
 
