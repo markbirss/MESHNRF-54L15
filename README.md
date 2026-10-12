@@ -16,6 +16,7 @@ Im still awaiting PCB's from JLCPCB - too confirm functioning
 | Feature | Status | Notes |
 | :--- | :---: | :--- |
 | **System Board ** |  | System boots successfully. |
+| **Firmware Flasing** |  | Working via RP2040-Zero or CMSIS-DAP |
 | **UART** |  | Working |
 | **Bluetooth** |  | Working |
 | **LoRa Radio** |  | Working |
