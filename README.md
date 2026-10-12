@@ -6,6 +6,21 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 
 <img width="1042" height="834" alt="MESHNRF-54L15 Hardware Overview" src="https://github.com/user-attachments/assets/3f4774db-9132-49a0-8d04-b96a3562d5d0" />
 
+## 📊 Current Status
+
+> [!IMPORTANT]
+> This platform is in an active testing phase. Contributions and debugging help are highly welcome.
+
+| Feature | Status | Notes |
+| :--- | :---: | :--- |
+| **Board Boot** |  | System boots successfully. |
+| **Bluetooth** |  | Operational. |
+| **LoRa Radio** |  | Functional and responding. |
+| **I2C Display** | ⚠️ | Initialized and displays data, but triggers a **firmware crash**. |
+
+### 🔍 Known Issues & Technical Debugging
+* **I2C Display Crash:** The display renders correctly on initialization, but the system destabilizes shortly afterward. This is a known firmware issue currently being investigated under the new nRF54 architecture stack.
+
 ---
 
 ## 🛠️ Development & Contribution Options
