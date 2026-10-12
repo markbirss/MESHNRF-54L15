@@ -8,7 +8,7 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 
 ## 📊 Current Status - 12 Oct 2026 - More updates to follow
 
-Im still awaiting PCB's from JLCPCB - 2 Layer 50mm x 40 mm - too confirm functioning
+Im still awaiting PCB's from JLCPCB - 2 Layer 50mm x 40 mm - too confirm functionality
 
 using SMD 1206 parts - Resistor, Caps. 3v3 LDO, Buttons, RP2040-Zero, Holyiot-24005, Seeed WIO-SX1262 and some 2.54 Headers
 
