@@ -2,7 +2,7 @@
 
 > **Note:** The nRF54 architecture was only recently added to Meshtastic and is still in very early experimental development.
 
-The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holyiot-24005 nRF54L15, RP2040-Zero and WIO-SX1262 LoRa module (on the bottom of the PCB).
+The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holyiot-24005-nRF54L15, RP2040-Zero and WIO-SX1262 LoRa module (on the bottom of the PCB).
 
 <img width="1042" height="834" alt="MESHNRF-54L15 Hardware Overview" src="https://github.com/user-attachments/assets/3f4774db-9132-49a0-8d04-b96a3562d5d0" />
 
