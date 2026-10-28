@@ -4,7 +4,8 @@
 
 The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holyiot-24005-nRF54L15, RP2040-Zero and Seeed WIO-SX1262 LoRa module (on the bottom of the PCB).
 
-<img width="1042" height="834" alt="MESHNRF-54L15 Hardware Overview" src="https://github.com/user-attachments/assets/3f4774db-9132-49a0-8d04-b96a3562d5d0" />
+<img width="1042" height="834" alt="image" src="https://github.com/user-attachments/assets/14412b4f-7939-42a0-8bd4-a823099a34e0" />
+
 
 The RP2040-Zero acts a debugger/programmer and USB Serial interface for the nRF54L15. This DIY Hardware aims to provide a cheaper alternative to the Seeed LoRa Plus kit and or using a NRF54L15-DK.
 
@@ -12,9 +13,11 @@ https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-669
 
 https://www.digikey.co.za/en/products/detail/nordic-semiconductor-asa/NRF54L15-DK/25601516
 
-## 📊 Current Status - 12 Oct 2026 - More updates to follow
+## 📊 Current Status - 28 Oct 2026 - More updates to follow
 
-Im still awaiting PCB's from JLCPCB - 2 Layer 50mm x 40 mm - too confirm functionality
+awating new revision board after DIO1 was moved to pin 2
+
+PCB's from JLCPCB was received - 2 Layer 50mm x 40 mm - all functions are ok, but board will be revised to move DIO1
 
 using SMD 1206 parts - Resistor, Caps. 3v3 LDO, Buttons, RP2040-Zero, Holyiot-24005, Seeed WIO-SX1262 and some 2.54 Headers
 
@@ -30,7 +33,7 @@ using SMD 1206 parts - Resistor, Caps. 3v3 LDO, Buttons, RP2040-Zero, Holyiot-24
 | **Bluetooth** |  | Working |
 | **LoRa Radio** |  | Working |
 | **I2C Display** |  | Working |
-| Stable | ⚠️ | Not yet |
+| Stable | ⚠️ | Some bugs have been fixed |
 
 ### 🔍 Known Issues & Technical Debugging
 * The target is not stable and is currently being investigated under the new nRF54 architecture stack.
@@ -58,6 +61,14 @@ For firmware flashing and debugging, you can use a CMSIS-DAP debugger such as:
 * An RP2040 or RP2350 board configured as a debug probe
 
 <img width="800" height="800" alt="Debugging Setup Architecture" src="https://github.com/user-attachments/assets/08de9ea8-0e95-4d37-8ae7-35e1678062ba" />
+
+### Special Thanks to some of the other nRF54 Meshtsatic developers
+
+Development and finding/fixing bugs
+
+[caveman](https://github.com/caveman99)
+[cvaldes](https://github.com/cvaldess)
+[@sussydevil](https://github.com/sussydevil)
 
 ---
 
