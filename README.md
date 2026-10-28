@@ -70,7 +70,7 @@ Development and finding/fixing bugs
 | :--- | :---: |
 | caveman | [caveman](https://github.com/caveman99) |
 | cvaldes | [cvaldes](https://github.com/cvaldess) |
-| sussydevil | [@sussydevil](https://github.com/sussydevil) |
+| sussydevil | [sussydevil](https://github.com/sussydevil) |
 
 ---
 
