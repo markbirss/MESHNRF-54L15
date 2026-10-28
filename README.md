@@ -66,9 +66,11 @@ For firmware flashing and debugging, you can use a CMSIS-DAP debugger such as:
 
 Development and finding/fixing bugs
 
-[caveman](https://github.com/caveman99)
-[cvaldes](https://github.com/cvaldess)
-[@sussydevil](https://github.com/sussydevil)
+| Github name | Link |
+| :--- | :---: |
+| caveman | [caveman](https://github.com/caveman99) |
+| cvaldes | [cvaldes](https://github.com/cvaldess) |
+| sussydevil | [@sussydevil](https://github.com/sussydevil) |
 
 ---
 
