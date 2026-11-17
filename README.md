@@ -62,7 +62,7 @@ For firmware flashing and debugging, you can use a CMSIS-DAP debugger such as:
 
 <img width="800" height="800" alt="Debugging Setup Architecture" src="https://github.com/user-attachments/assets/08de9ea8-0e95-4d37-8ae7-35e1678062ba" />
 
-### Special Thanks to some of the other nRF54 Meshtsatic developers
+### Special Thanks to some of the other nRF54 developers
 
 Development and finding/fixing bugs
 
