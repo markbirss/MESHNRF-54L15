@@ -71,6 +71,7 @@ Development and finding/fixing bugs
 | caveman | [caveman](https://github.com/caveman99) |
 | cvaldes | [cvaldes](https://github.com/cvaldess) |
 | andyshinn | [andyshinn](https://github.com/andyshinn) |
+| lolren | [lolren](https://github.com/lolren) |
 | sussydevil | [sussydevil](https://github.com/sussydevil) |
 
 ---
