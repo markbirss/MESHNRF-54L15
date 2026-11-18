@@ -7,6 +7,11 @@ The **MESHNRF-54L15** is a custom DIY nRF54 development board utilizing the Holy
 <img width="1042" height="834" alt="image" src="https://github.com/user-attachments/assets/14412b4f-7939-42a0-8bd4-a823099a34e0" />
 
 
+<img width="60%" alt="20261118_152842" src="https://github.com/user-attachments/assets/1514b9bd-743f-403f-907c-053d12af465f" />
+
+<img width="60%" alt="20261118_153051" src="https://github.com/user-attachments/assets/217dc6fc-ea49-43f0-8747-5bd2d322ba1b" />
+
+
 The RP2040-Zero acts a debugger/programmer and USB Serial interface for the nRF54L15. This DIY Hardware aims to provide a cheaper alternative to the Seeed LoRa Plus kit and or using a NRF54L15-DK.
 
 https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-6698.html
