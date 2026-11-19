@@ -20,7 +20,7 @@ https://www.digikey.co.za/en/products/detail/nordic-semiconductor-asa/NRF54L15-D
 
 ## 📊 Current Status - 18 Nov 2026 - More updates to follow
 
-Received assembled and tested after DIO1 move to pin 2 - variant files added
+Received assembled and tested after DIO1 move to pin 2 - variant files added - Fabrication Files added
 
 awating new revision board after DIO1 was moved to pin 2
 
