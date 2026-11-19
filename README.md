@@ -18,7 +18,9 @@ https://www.seeedstudio.com/LR2021-LoRa-Plus-Evaluation-kit-915Mhz-US-V2-0-p-669
 
 https://www.digikey.co.za/en/products/detail/nordic-semiconductor-asa/NRF54L15-DK/25601516
 
-## 📊 Current Status - 28 Oct 2026 - More updates to follow
+## 📊 Current Status - 18 Nov 2026 - More updates to follow
+
+Received assembled and tested after DIO1 move to pin 2
 
 awating new revision board after DIO1 was moved to pin 2
 
