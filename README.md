@@ -42,6 +42,19 @@ using SMD 1206 parts - Resistor, Caps. 3v3 LDO, Buttons, RP2040-Zero, Holyiot-24
 | **I2C Display** |  | Working |
 | Stable | ⚠️ | Some bugs have been fixed |
 
+```
+# Clone target codebase repos
+git clone --recurse-submodules https://github.com/meshtastic/firmware.git
+git clone https://github.com/markbirss/MESHNRF-54L15.git
+
+# Copy variant to firmware folder
+cp -r meshnrf-54l15-wio-sx1262 firmware/variants/nrf54l15/
+
+# Compile and upload target firmware variant code
+cd firmware/
+pio run -e meshnrf-54l15-wio-sx1262 -t upload
+```
+
 ### 🔍 Known Issues & Technical Debugging
 * The target is not stable and is currently being investigated under the new nRF54 architecture stack.
 
